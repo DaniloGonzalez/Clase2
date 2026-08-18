@@ -1,0 +1,32 @@
+header {
+    background-color: yellow;
+    padding: 20px;
+}
+body{
+    margin: 0px;
+    width: 100vw;
+}
+button {
+    text-align: center;
+    background-color: aqua;
+}
+h1{
+    color: grey;
+
+}
+#nombre {
+    color: black;
+    font-size: 64px;
+    font-family: monospace;
+}
+
+
+.input_formulario{
+    border: 2px purple dotted;
+
+
+}
+
+.seccion_formulario{
+    margin: 50px;
+}
